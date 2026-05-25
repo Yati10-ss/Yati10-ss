@@ -88,6 +88,26 @@ AI_ML = {
 
 ---
 
+## 📊 Technical Proficiency
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Proficient-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-Proficient-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-Proficient-412991?style=flat&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Familiar-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Proficient-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=flat&logo=linux&logoColor=black)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Yati10-ss.Yati10-ss)
+
+
+---
+
 ## 📊 Industry Experience
 
 **🏢 Capgemini Technology Services** *(2020 – 2024)*
@@ -103,8 +123,6 @@ AI_ML = {
 
 ---
 
-
----
 
 ## 🎓 Education & Certifications
 
