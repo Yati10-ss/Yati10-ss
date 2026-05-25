@@ -21,6 +21,18 @@ My background bridges two worlds: **enterprise-scale engineering** (Capgemini, 2
 
 ## 🚀 Featured Projects
 
+### 🔬 [AI-Powered ELN Automation — Drexel Social NLP Lab](https://github.com/Yati10-ss)
+End-to-end multimodal AI pipeline converting raw lab experiment 
+videos into structured Electronic Lab Notebook outputs using 
+YOLO, Vision-Language Models, and OCR.
+- 3,000+ domain-specific frames annotated and trained
+- Real-world robustness across lighting variability and occlusions
+- Stack: `Python` `YOLO` `OpenCV` `VLMs` `OCR` `Docker`
+
+> 🔒 Code proprietary to Drexel University Social NLP Lab
+
+---
+
 ### 🧠 [Suicide Risk & Distress Detection — Conversational AI](https://github.com/Yati10-ss/suicide-risk-detection-nlp)
 Multi-task NLP system detecting suicide risk, emotional distress, and emotion from conversational text using RoBERTa and DeepSeek Transformers.
 - **F1: 0.83** (suicide risk) | **F1: 0.80** (emotion) | **AUC: 1.00**
