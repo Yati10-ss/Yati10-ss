@@ -1,107 +1,134 @@
 # Hi, I'm Yateen Sakhare 👋
 
-### AI/ML Engineer | Generative AI | LLM Applications | NLP | Computer Vision | Multimodal AI
-
-I'm an AI/ML Engineer with 4+ years of industry experience and research experience at Drexel University's Social NLP Lab. I build production-oriented AI systems focused on LLM applications, multimodal AI pipelines, NLP, computer vision, and applied machine learning.
-
-Currently focused on building scalable AI applications using:
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Multimodal AI Systems
-* Computer Vision + OCR
-* Deep Learning & Reinforcement Learning
-* AI Deployment & MLOps
+### AI/ML Engineer | NLP • Computer Vision • LLMs • Generative AI • Multimodal AI
+**MS in Artificial Intelligence & Machine Learning — Drexel University (GPA: 3.83)**
 
 ---
 
-## 🚀 Current Focus
+## 🧠 About Me
 
-* Building AI-powered multimodal systems for real-world automation
-* Developing LLM and RAG applications using OpenAI APIs and LangChain
-* Exploring scalable AI engineering workflows and deployment pipelines
-* Designing production-ready NLP and Computer Vision applications
+I'm an AI/ML Engineer with **4+ years of industry experience** and hands-on research at Drexel University's Social NLP Lab. I specialize in building production-grade AI systems from NLP pipelines and multimodal architectures to curiosity-driven reinforcement learning agents.
 
----
+My background bridges two worlds: **enterprise-scale engineering** (Capgemini, 2020–2024) and **applied AI research** (Drexel Social NLP Lab Co-op, 2025–2026). I build systems that are technically rigorous, robust under real-world conditions, and designed with deployment in mind — not just notebooks.
 
-## 🧠 Featured AI Domains
-
-* Generative AI
-* LLM Applications
-* NLP & Conversational AI
-* Computer Vision
-* OCR & Vision-Language Models (VLMs)
-* Reinforcement Learning
-* Multimodal AI Systems
-* AI Automation Pipelines
+- 🎓 MS AI/ML — Drexel University | GPA: 3.83
+- 🏢 Ex-Capgemini — NLP pipelines, BERT systems, edge CV deployment
+- 🔬 Ex-Drexel Social NLP Lab — Multimodal AI, VLMs, OCR pipelines
+- 🌐 Based in Philadelphia, PA | STEM OPT Authorized (3 years)
+- 📫 ftyateensakhare@gmail.com
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Featured Projects
 
-### Languages
-
-Python • SQL • C++ • Bash/Shell
-
-### AI/ML Frameworks
-
-PyTorch • TensorFlow • HuggingFace • Scikit-learn • OpenCV • YOLO • RLlib
-
-### LLM & GenAI
-
-OpenAI API • LangChain • RAG • Prompt Engineering • Whisper • VLMs
-
-### Cloud & Deployment
-
-AWS • GCP • Azure • Docker • FastAPI • Flask • GitHub Actions • Airflow
-
-### Tools
-
-Git • GitHub • VS Code • Jupyter • Google Colab • Jira
+### 🧠 [Suicide Risk & Distress Detection — Conversational AI](https://github.com/Yati10-ss/suicide-risk-detection-nlp)
+Multi-task NLP system detecting suicide risk, emotional distress, and emotion from conversational text using RoBERTa and DeepSeek Transformers.
+- **F1: 0.83** (suicide risk) | **F1: 0.80** (emotion) | **AUC: 1.00**
+- Multi-task learning improved distress detection from F1: 0.00 → 0.57
+- Stack: `Python` `PyTorch` `RoBERTa` `DeepSeek` `HuggingFace` `Multi-task Learning`
 
 ---
 
-## 🔥 Featured Projects
-
-### 🧪 AI-Powered Electronic Lab Notebook (ELN) Automation
-
-Multimodal AI pipeline using YOLO, OCR, and Vision-Language Models to automatically extract structured experimental data from laboratory videos.
-
-**Tech:** Python, YOLO, OpenCV, OCR, OpenAI APIs, VLMs
+### 🚀 [Curiosity-Driven RL for Autonomous Rover Navigation](https://github.com/Yati10-ss/rl-rover-navigation)
+PPO + Intrinsic Curiosity Module (ICM) framework for autonomous rover navigation on sparse-reward lunar terrains simulated in PyBullet.
+- **67.4% goal success rate** vs 25% baseline PPO (+169% improvement)
+- **2x cumulative reward** improvement | ICM loss stable at 0.035
+- Stack: `Python` `PyTorch` `PPO` `ICM` `PyBullet` `Stable-Baselines3` `RLlib`
 
 ---
 
-### 🧠 Suicide Risk & Distress Detection — Conversational AI
-
-Multi-task NLP system using RoBERTa and DeepSeek Transformers for suicide risk detection, emotional distress analysis, and emotion classification.
-
-**Tech:** PyTorch, HuggingFace Transformers, RoBERTa, DeepSeek, NLP
-
----
-
-### 🌕 Curiosity-Driven RL for Autonomous Rover Navigation
-
-Deep Reinforcement Learning framework combining PPO + Intrinsic Curiosity Module (ICM) for autonomous lunar rover navigation in sparse-reward environments.
-
-**Tech:** PyTorch, PPO, RLlib, PyBullet, Reinforcement Learning
+### 💊 [MedMind AI — Voice Medication Assistant](https://github.com/Yati10-ss/medmind-ai-voice-assistant)
+Privacy-first, voice-activated medication management system for elderly users with STT/TTS, a curated 36-drug knowledge base, and drug interaction checking.
+- Speech-to-Text + Text-to-Speech via SpeechRecognition and gTTS
+- REST API with drug interaction checker supporting generic and brand name lookup
+- Stack: `Python` `Flask` `gTTS` `SpeechRecognition` `OpenFDA` `APScheduler`
 
 ---
 
-### 💊 MedMind AI — Intelligent Voice Medication Assistant
-
-Voice-enabled AI assistant for elderly medication management using Whisper STT, TTS pipelines, and AI-driven drug interaction assistance.
-
-**Tech:** OpenAI Whisper, React Native, Python, OpenFDA API
-
----
-
-## 🤝 Connect With Me
-
-* LinkedIn: linkedin.com/in/yateensakhare7947
-* GitHub: github.com/Yati10-ss
+### 🛡️ [Fake Profile Detection — DNN + Adversarial Training](https://github.com/Yati10-ss/fake-profile-detection-dnn)
+Deep Neural Network enhanced with PGD adversarial training for robust Instagram fake profile detection against FGSM, PGD, and Carlini-Wagner attacks.
+- **88% accuracy maintained across ALL adversarial scenarios**
+- Standard DNN drops to 83% under CW — robust DNN holds firm
+- Stack: `Python` `PyTorch` `FGSM` `PGD` `Carlini-Wagner` `SMOTE` `Scikit-learn`
 
 ---
 
-### 💡 Interests
+## 🛠️ Technical Stack
 
-Artificial Intelligence • Generative AI • AI Engineering • LLM Systems • Multimodal AI • AI for Healthcare • NLP • Computer Vision • Applied Machine Learning
+```python
+AI_ML = {
+    "LLMs & GenAI":     ["LLMs", "RAG", "Prompt Engineering", 
+                          "LangChain", "HuggingFace", "OpenAI API"],
+    "Frameworks":        ["PyTorch", "TensorFlow", "Scikit-learn", 
+                          "HuggingFace Transformers", "Keras"],
+    "Computer Vision":   ["YOLO", "OpenCV", "Vision-Language Models", 
+                          "OCR", "Multimodal AI"],
+    "NLP":              ["RoBERTa", "BERT", "DeepSeek", "Whisper",
+                          "SpaCy", "NLTK", "Multi-task Learning"],
+    "Reinforcement_RL":  ["PPO", "ICM", "RLlib", "PyBullet",
+                          "Stable-Baselines3"],
+    "MLOps & Cloud":    ["Docker", "AWS", "GCP", "Azure", 
+                          "FastAPI", "Flask", "Streamlit",
+                          "GitHub Actions CI/CD", "Kubernetes"],
+    "Languages":        ["Python", "SQL", "C++", "Bash/Shell"]
+}
+```
+
+---
+
+## 📊 Industry Experience
+
+**🏢 Capgemini Technology Services** *(2020 – 2024)*
+- Built NLP sentiment pipeline on 50K+ reviews — F1 +23%, throughput +87%
+- Deployed multilingual BERT conversational AI — 15K+ daily queries at 94% accuracy
+- Optimized YOLOv5 edge detection — <60ms inference on NVIDIA Jetson
+- Containerized ML microservices with Docker + AWS EC2 CI/CD — release cycles -40%
+
+**🔬 Drexel Social NLP Lab — AI/ML Co-op** *(2025 – 2026)*
+- Built end-to-end multimodal AI pipeline (YOLO + VLMs + OCR) for lab automation
+- Curated and annotated 3,000+ domain-specific video frames
+- Engineered Electronic Lab Notebook generation from raw experiment video
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yati10-ss&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yati10-ss&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MS — Artificial Intelligence & Machine Learning | Drexel University | 2026 |
+| PG Certificate — Machine Learning & AI | IIT Jodhpur | 2024 |
+| BE — Computer Science & Engineering | RTM Nagpur University | 2019 |
+
+**Certifications:** Microsoft AI-900 Azure AI Fundamentals · AZ-900 Azure Fundamentals
+
+**Awards:** PATHFINDER — Capgemini India (Innovative & Transformational Mindset)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/yateensakhare7947" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ftyateensakhare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yati10-ss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+*Open to AI/ML Engineer, Applied AI, NLP Engineer, GenAI Engineer, and MLOps roles.*
+*Authorized to work in the U.S. on STEM OPT — 3 years, no immediate sponsorship required.*
