@@ -7,16 +7,23 @@
 
 ## 🧠 About Me
 
-I'm an AI/ML Engineer with **4+ years of industry experience** and hands-on research at Drexel University's Social NLP Lab. I specialize in building production-grade AI systems from NLP pipelines and multimodal architectures to curiosity-driven reinforcement learning agents.
+AI/ML Engineer with 5+ years of combined experience spanning Applied AI/ML, Generative AI, Agentic AI, and enterprise cloud infrastructure and automation. I specialize in designing and developing end-to-end AI solutions that bridge machine learning research, intelligent automation, and production-oriented enterprise applications.
 
-My background bridges two worlds: **enterprise-scale engineering** (Capgemini, 2020–2024) and **applied AI research** (Drexel Social NLP Lab Co-op, 2025–2026). I build systems that are technically rigorous, robust under real-world conditions, and designed with deployment in mind — not just notebooks.
+My technical expertise includes building LLM-powered applications, LangGraph and LangChain agent workflows, Retrieval-Augmented Generation (RAG) pipelines, prompt engineering, and tool-calling integrations. I also work with multimodal AI, NLP, computer vision, and privacy-aware data processing, using technologies such as Python, PyTorch, Hugging Face Transformers, Azure OpenAI, FastAPI, and Docker.
 
-- 🎓 MS AI/ML — Drexel University | GPA: 3.83
-- 🏢 Ex-Capgemini — NLP pipelines, BERT systems, edge CV deployment
-- 🔬 Ex-Drexel Social NLP Lab — Multimodal AI, VLMs, OCR pipelines
-- 🌐 Based in Philadelphia, PA | STEM OPT Authorized (3 years)
-- 📫 ftyateensakhare@gmail.com
+My enterprise experience includes developing Generative AI solutions using Azure OpenAI, C#/.NET, and PostgreSQL for synthetic data generation, privacy-preserving anonymization, and reliable LLM-driven data workflows. I also bring experience in enterprise infrastructure automation, application integration, monitoring, and operational reliability.
 
+Beyond my professional experience, I explore Agentic AI, multi-agent orchestration, conversational AI, reinforcement learning, and responsible AI, with a focus on building intelligent systems that are reliable, scalable, secure, and practical for real-world applications.
+
+My focus is on transforming complex business and research requirements into intelligent, tested, and deployable AI solutions that deliver measurable value.
+
+🔧 Stack: AI/ML Engineer | Generative AI & Agentic AI | Python | LangGraph | LangChain | LLMs | RAG | PyTorch | Azure OpenAI | MLOps
+
+🌐 Authorized to work in the U.S. on STEM OPT (3 years)
+
+Open to: AI Engineer | ML Engineer | NLP Engineer | Applied AI | GenAI Engineer roles
+
+📫 ftyateensakhare@gmail.com
 ---
 
 ## 🚀 Featured Projects
